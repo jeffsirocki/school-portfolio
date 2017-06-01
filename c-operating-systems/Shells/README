@@ -1,0 +1,60 @@
+// Jeff Sirocki and Tyler Bennett
+// Due: 01-27-2015
+
+Phase 1(runCommands.c) reads in a single shell command and command line arguments. The program excecutes the shell command and prints useful output.
+
+Phase 2(shell.c) reads in a single shell command at a time, excecutes the command, and prints command statistics. This shell runs until it receives an exit command.
+
+Phase 3(shell2.c) reads in a single shell command at a time. This shell allows for foreground processes and background process (&). The shell runs all commands, prints output, and only terminates when it receives exit.
+
+	Output:
+	- Wall Clock for process
+ 	- CPU Time (User + System)
+	- Process gave up voluntarily
+ 	- Process gave up involuntarily
+ 	- Page faults
+ 	- Page faults that used unreclaimed pages
+
+Comments included in source code.
+
+Project includes:
+	- runCommands.c (phase 1)
+	- shell.c 		(phase 2)
+	- shell2.c 	(phase 3)
+	- Makefile
+	- phase1 (executable)
+	- phase2 (executable)
+	- phase3 (executable)
+	- test1	(phase 1)
+	- test2	(phase 2)
+	- test3	(phase 3)
+	- output1	(phase 1)
+	- output2	(phase 2)
+	- output3	(phase 3)
+	- README
+	
+
+How to Run it:
+
+Phase 1
+	bash$ make all
+Run a single command
+	bash$ ./phase1 ls /home
+
+Phase 2
+	bash$ make all
+Run Program
+	bash$ ./phase2
+Enter Commands
+	==> ls /home
+
+Phase 3
+	bash$ make all
+Run Program
+	bash$ ./phase3
+Enter Commands
+	==> ls /home
+	==> ls /home &
+
+
+

@@ -1,0 +1,32 @@
+// Tyler Bennett and Jeff Sirocki
+// CS 3013 - Project 4
+// Due: 02-27-15
+
+// Implementing Virtual Memory
+
+// Testing Methodology  
+
+The way we went about testing our implementation of virtual memory was to provide 2
+test functions that a single user runs to show off specific parts of our implementation of 
+the userAPI functions, and then 2 other functions that multiple users run at the same 
+time to stress test our virtual memory code.
+
+The purpose of our first function was to test what would happen if allocateNewInt() was called
+when no memory was available to the user. The function should return -1 to the user.
+
+The purpose of our second function was to test what would happen if accessIntPtr() was called
+when the RAM was completely locked. The function should return a null pointer to the user. 
+
+The purpose of our 2 functions that we created for multiple users to run was using run_user1 and run_user2.
+ - run_user1(User *uptr) was the memory maxer function outfitted for multiple users. It tests our synchronization
+	for multiple page evictions and delays. (Every allocation is a page fault)
+
+ - run_user2(User *uptr) was the memory maxer function outfitted for multiple users. It tests our synchronization
+	for multiple page hits and no delays. (Every allocation is a page hit)
+
+Our tests are thorough because they test the error cases in multiple functions, they show that 
+multiple users can alter memory at once, and that all of our functions work correctly. No memory
+location is ever overwritten, unlocked, or freed up unexpectedly. 
+
+A user should have confidence in our system because it gives the user reliable results, it is 
+fair to other users working concurrently, and provides the user with responsible error handling.
