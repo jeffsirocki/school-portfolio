@@ -1,0 +1,37 @@
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+ Enter a student id and three grades 
+
+		******* TREE ********
+
+              ID | Grade 1 | Grade 2 | Grade 3 | Average
+            --------------------------------------------
+   Student { 161616     16.00    16.00     0.00    10.67 }
+   Student { 10101002     78.00    79.00    81.00    79.33 }
+   Student { 100000000      0.50    77.75    100.00    59.42 }
+   Student { 121212121     98.00    64.00    100.00    87.33 }
+   Student { 266237739     85.00    85.00    84.00    84.67 }
+   Student { 333333300     66.00    89.00    97.00    84.00 }
+   Student { 333333333     56.00    79.00    96.00    77.00 }
+   Student { 446688001     81.00    77.00    89.00    82.33 }
+   Student { 456456456     99.00    45.00    100.00    81.33 }
+   Student { 561111111     98.00    88.00    76.50    87.50 }
+   Student { 677777776     77.00    87.00    99.00    87.67 }
+   Student { 700000005     67.00    92.00    20.50    59.83 }
+   Student { 841365729     99.00    99.00     6.00    68.00 }
+   Student { 876543210     100.00    85.00    85.00    90.00 }
+   Student { 958162237     100.00    84.00    97.00    93.67 }
+   Student { 990011223     99.00    99.00    100.00    99.33 }

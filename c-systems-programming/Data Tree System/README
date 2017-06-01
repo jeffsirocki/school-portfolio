@@ -1,0 +1,24 @@
+created by Jeffrey Sirocki and Joseph Kaiser
+10/2/2014
+
+js_jtk_prog4.tar includes:
+	prog4.cpp
+	prog4.h
+	item.cpp
+	treenode.cpp
+	listnode.cpp
+	Makefile
+	prog4.out
+	prog4 (executable)
+	prog4.dat
+	README
+
+To compile the program, enter "make" in the command line.
+
+Input data is to be redirected using the command line in the case of reading in from an ASCII file, or otherwise by terminal input.
+
+The program will either read in the input data from the relevant file or proceed from terminal input lines and at completion will write statistics of the locations where each item is stored and the associated quantities at each location in an output file "prog4.out".
+
+To run the program, run the executable file by entering the following into the command line:
+
+$ ./prog4 < prog4.dat

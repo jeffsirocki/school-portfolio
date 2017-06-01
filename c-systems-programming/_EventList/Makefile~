@@ -1,0 +1,12 @@
+## Start of the Makefile
+
+lab3: lab3.o
+	gcc -o lab3 lab3.o
+
+lab3.o: lab3.c eventlist.h
+	gcc -Wall -c lab3.c
+
+clean:
+	rm *.o
+
+## End of the Makefile

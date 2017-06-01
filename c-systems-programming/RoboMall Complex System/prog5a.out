@@ -1,0 +1,1075 @@
+Enter number of robots:
+Enter the number of stores the corresponding robots (R1, R2, ... , Rn) must visit.
+Use this template: s1 s2 s3 ... sn
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 10
+ Item Count: 13
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 11
+ Item Count: 86
+ Item Count: 25
+ Item Count: 30
+ Item Count: 200
+ Item Count: 201
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 12
+ Item Count: 14
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 3
+ Item Count: 27
+ Item Count: 6
+ Item Count: 118
+ Item Count: 900
+ Item Count: 1000
+ Item Count: 70
+ Item Count: 82
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 60
+ Item Count: 65
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 41
+ Item Count: 50
+ Item Count: 100
+ Item Count: 115
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 340
+ Item Count: 354
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 2
+ Item Count: 10
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 12
+ Item Count: 18
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n
+ Item Count: 1
+ Item Count: 8
+Stage 1 Input End - lines:  39
+***** Robots *****
+
+   Robot Id: 0
+   numStore: 3
+   Current: 0
+   Start Time: 0
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 0 
+
+
+   Robot Id: 1
+   numStore: 4
+   Current: 0
+   Start Time: 25
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 25 
+
+
+   Robot Id: 2
+   numStore: 7
+   Current: 0
+   Start Time: 50
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 50 
+
+
+   Robot Id: 3
+   numStore: 2
+   Current: 0
+   Start Time: 75
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 75 
+
+
+   Robot Id: 4
+   numStore: 5
+   Current: 0
+   Start Time: 100
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 100 
+
+
+   Robot Id: 5
+   numStore: 10
+   Current: 0
+   Start Time: 125
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 125 
+
+
+   Robot Id: 6
+   numStore: 7
+   Current: 0
+   Start Time: 150
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 150 
+
+
+   Robot Id: 7
+   numStore: 1
+   Current: 0
+   Start Time: 175
+   Finish Time: 0
+   Finished: 0
+   Location { 8, 16, 0
+   Sort: 175 
+
+
+
+System: Robot { 0 8 16 3 } Arrived at Time 0 to the simulation. 
+
+ Robot 1 arrives at s( 12, 10 ) on Floor 1 at time 25 
+ Robot 1 delivered 1 items to store s( 12, 10 ).
+ Robot 1 leaves store s( 12, 10 ) on the 1 Floor at Time 25.
+
+System: Robot { 1 8 16 4 } Arrived at Time 25 to the simulation. 
+
+ Robot 2 arrives at s( 12, 4 ) on Floor 1 at time 52 
+
+System: Robot { 2 8 16 7 } Arrived at Time 50 to the simulation. 
+
+ Robot 2 delivered 10 items to store s( 12, 4 ).
+ Robot 2 leaves store s( 12, 4 ) on the 1 Floor at Time 61.
+ Robot 1 arrives at s( 12, 4 ) on Floor 1 at time 68 
+ Robot 3 went UP on the elevator at Time 68
+ Robot 3 got off the elevator at Time 71
+ Robot 1 delivered 2 items to store s( 12, 4 ).
+ Robot 1 leaves store s( 12, 4 ) on the 1 Floor at Time 69.
+ Robot 3 arrives at s( 4, 6 ) on Floor 2 at time 75 
+ Robot 3 delivered 3 items to store s( 4, 6 ).
+ Robot 3 leaves store s( 4, 6 ) on the 2 Floor at Time 77.
+
+System: Robot { 3 8 16 2 } Arrived at Time 75 to the simulation. 
+
+ Robot 4 went UP on the elevator at Time 93
+ Robot 4 got off the elevator at Time 96
+ Robot 2 went UP on the elevator at Time 95
+ Robot 2 got off the elevator at Time 98
+ Robot 4 arrives at s( 10, 4 ) on Floor 2 at time 100 
+ Robot 4 delivered 2 items to store s( 10, 4 ).
+ Robot 4 leaves store s( 10, 4 ) on the 2 Floor at Time 101.
+ Robot 3 went DOWN on the elevator at Time 101
+ Robot 3 got off the elevator at Time 104
+ Robot 2 arrives at s( 4, 6 ) on Floor 2 at time 102 
+
+System: Robot { 4 8 16 5 } Arrived at Time 100 to the simulation. 
+
+ Robot 2 delivered 7 items to store s( 4, 6 ).
+ Robot 2 leaves store s( 4, 6 ) on the 2 Floor at Time 108.
+ Robot 1 went UP on the elevator at Time 103
+ Robot 1 got off the elevator at Time 106
+ Robot 1 arrives at s( 4, 6 ) on Floor 2 at time 110 
+ Robot 1 delivered 6 items to store s( 4, 6 ).
+ Robot 1 leaves store s( 4, 6 ) on the 2 Floor at Time 115.
+ Robot 5 went UP on the elevator at Time 118
+ Robot 5 got off the elevator at Time 121
+ Robot 5 arrives at s( 10, 4 ) on Floor 2 at time 125 
+ Robot 5 delivered 6 items to store s( 10, 4 ).
+ Robot 5 leaves store s( 10, 4 ) on the 2 Floor at Time 130.
+
+System: Robot { 5 8 16 10 } Arrived at Time 125 to the simulation. 
+
+ Robot 2 went DOWN on the elevator at Time 132
+ Robot 2 got off the elevator at Time 135
+ Robot 4 arrives at s( 12, 12 ) on Floor 2 at time 134 
+ Robot 4 delivered 3 items to store s( 12, 12 ).
+ Robot 4 leaves store s( 12, 12 ) on the 2 Floor at Time 136.
+ Robot 3 arrives at s( 12, 4 ) on Floor 1 at time 136 
+ Robot 3 delivered 5 items to store s( 12, 4 ).
+ Robot 3 leaves store s( 12, 4 ) on the 1 Floor at Time 140.
+ Robot 1 went DOWN on the elevator at Time 139
+ Robot 1 got off the elevator at Time 142
+ Robot 5 arrives at s( 4, 4 ) on Floor 2 at time 143 
+ Robot 6 went UP on the elevator at Time 143
+ Robot 6 got off the elevator at Time 146
+ Robot 5 delivered 1 items to store s( 4, 4 ).
+ Robot 5 leaves store s( 4, 4 ) on the 2 Floor at Time 143.
+
+System: Robot 1 has left the simulation at Time 147. 
+
+ Robot 4 went DOWN on the elevator at Time 150
+ Robot 4 got off the elevator at Time 153
+
+System: Robot { 6 8 16 7 } Arrived at Time 150 to the simulation. 
+
+ Robot 2 arrives at s( 4, 4 ) on Floor 1 at time 157 
+ Robot 6 arrives at s( 4, 12 ) on Floor 2 at time 158 
+ Robot 2 delivered 4 items to store s( 4, 4 ).
+ Robot 2 leaves store s( 4, 4 ) on the 1 Floor at Time 160.
+ Robot 6 delivered 3 items to store s( 4, 12 ).
+ Robot 6 leaves store s( 4, 12 ) on the 2 Floor at Time 160.
+
+System: Robot 4 has left the simulation at Time 158. 
+
+ Robot 5 went DOWN on the elevator at Time 167
+ Robot 5 got off the elevator at Time 170
+ Robot 7 arrives at s( 12, 10 ) on Floor 1 at time 175 
+ Robot 3 went UP on the elevator at Time 174
+ Robot 3 got off the elevator at Time 177
+ Robot 7 delivered 7 items to store s( 12, 10 ).
+ Robot 7 leaves store s( 12, 10 ) on the 1 Floor at Time 181.
+
+System: Robot { 7 8 16 1 } Arrived at Time 175 to the simulation. 
+
+ Robot 6 arrives at s( 10, 4 ) on Floor 2 at time 181 
+ Robot 3 arrives at s( 4, 10 ) on Floor 2 at time 181 
+ Robot 5 arrives at s( 4, 12 ) on Floor 1 at time 182 
+ Robot 3 delivered 1 items to store s( 4, 10 ).
+ Robot 3 leaves store s( 4, 10 ) on the 2 Floor at Time 181.
+ Robot 6 delivered 8 items to store s( 10, 4 ).
+ Robot 6 leaves store s( 10, 4 ) on the 2 Floor at Time 188.
+ Robot 5 delivered 2 items to store s( 4, 12 ).
+ Robot 5 leaves store s( 4, 12 ) on the 1 Floor at Time 183.
+ Robot 2 arrives at s( 12, 12 ) on Floor 1 at time 189 
+ Robot 2 delivered 8 items to store s( 12, 12 ).
+ Robot 2 leaves store s( 12, 12 ) on the 1 Floor at Time 196.
+ Robot 8 went UP on the elevator at Time 193
+ Robot 8 got off the elevator at Time 196
+
+System: Robot 2 has left the simulation at Time 202. 
+
+ Robot 5 arrives at s( 6, 4 ) on Floor 1 at time 206 
+ Robot 3 went DOWN on the elevator at Time 205
+ Robot 3 got off the elevator at Time 208
+ Robot 5 delivered 3 items to store s( 6, 4 ).
+ Robot 5 leaves store s( 6, 4 ) on the 1 Floor at Time 208.
+ Robot 7 arrives at s( 4, 4 ) on Floor 1 at time 214 
+ Robot 5 went UP on the elevator at Time 214
+ Robot 5 got off the elevator at Time 217
+ Robot 7 delivered 3 items to store s( 4, 4 ).
+ Robot 7 leaves store s( 4, 4 ) on the 1 Floor at Time 216.
+ Robot 5 arrives at s( 6, 4 ) on Floor 2 at time 221 
+ Robot 5 delivered 5 items to store s( 6, 4 ).
+ Robot 5 leaves store s( 6, 4 ) on the 2 Floor at Time 225.
+ Robot 6 went DOWN on the elevator at Time 222
+ Robot 6 got off the elevator at Time 225
+ Robot 8 arrives at s( 12, 6 ) on Floor 2 at time 228 
+ Robot 6 arrives at s( 6, 12 ) on Floor 1 at time 229 
+ Robot 8 delivered 7 items to store s( 12, 6 ).
+ Robot 8 leaves store s( 12, 6 ) on the 2 Floor at Time 234.
+ Robot 3 arrives at s( 4, 10 ) on Floor 1 at time 230 
+ Robot 6 delivered 2 items to store s( 6, 12 ).
+ Robot 6 leaves store s( 6, 12 ) on the 1 Floor at Time 230.
+ Robot 7 went UP on the elevator at Time 230
+ Robot 7 got off the elevator at Time 233
+ Robot 3 delivered 4 items to store s( 4, 10 ).
+ Robot 3 leaves store s( 4, 10 ) on the 1 Floor at Time 233.
+ Robot 7 arrives at s( 6, 4 ) on Floor 2 at time 237 
+ Robot 3 arrives at s( 4, 6 ) on Floor 1 at time 238 
+ Robot 7 delivered 2 items to store s( 6, 4 ).
+ Robot 7 leaves store s( 6, 4 ) on the 2 Floor at Time 238.
+ Robot 3 delivered 1 items to store s( 4, 6 ).
+ Robot 3 leaves store s( 4, 6 ) on the 1 Floor at Time 238.
+ Robot 8 went DOWN on the elevator at Time 240
+ Robot 8 got off the elevator at Time 243
+ Robot 3 went UP on the elevator at Time 244
+ Robot 3 got off the elevator at Time 247
+
+System: Robot 8 has left the simulation at Time 248. 
+
+ Robot 3 arrives at s( 10, 4 ) on Floor 2 at time 251 
+ Robot 3 delivered 10 items to store s( 10, 4 ).
+ Robot 3 leaves store s( 10, 4 ) on the 2 Floor at Time 260.
+ Robot 5 went DOWN on the elevator at Time 259
+ Robot 5 got off the elevator at Time 262
+ Robot 6 arrives at s( 10, 4 ) on Floor 1 at time 263 
+ Robot 6 delivered 5 items to store s( 10, 4 ).
+ Robot 6 leaves store s( 10, 4 ) on the 1 Floor at Time 267.
+
+System: Robot 5 has left the simulation at Time 267. 
+
+ Robot 7 arrives at s( 10, 12 ) on Floor 2 at time 271 
+ Robot 7 delivered 1 items to store s( 10, 12 ).
+ Robot 7 leaves store s( 10, 12 ) on the 2 Floor at Time 271.
+ Robot 6 arrives at s( 10, 12 ) on Floor 1 at time 280 
+ Robot 6 delivered 5 items to store s( 10, 12 ).
+ Robot 6 leaves store s( 10, 12 ) on the 1 Floor at Time 284.
+ Robot 3 arrives at s( 12, 12 ) on Floor 2 at time 293 
+ Robot 3 delivered 1 items to store s( 12, 12 ).
+ Robot 3 leaves store s( 12, 12 ) on the 2 Floor at Time 293.
+ Robot 3 went DOWN on the elevator at Time 307
+ Robot 3 got off the elevator at Time 310
+ Robot 6 went UP on the elevator at Time 308
+ Robot 6 got off the elevator at Time 311
+ Robot 7 arrives at s( 12, 6 ) on Floor 2 at time 312 
+ Robot 7 delivered 3 items to store s( 12, 6 ).
+ Robot 7 leaves store s( 12, 6 ) on the 2 Floor at Time 314.
+
+System: Robot 3 has left the simulation at Time 315. 
+
+ Robot 7 went DOWN on the elevator at Time 320
+ Robot 7 got off the elevator at Time 323
+ Robot 6 arrives at s( 6, 12 ) on Floor 2 at time 333 
+ Robot 6 delivered 1 items to store s( 6, 12 ).
+ Robot 6 leaves store s( 6, 12 ) on the 2 Floor at Time 333.
+ Robot 7 arrives at s( 12, 12 ) on Floor 1 at time 335 
+ Robot 7 delivered 2 items to store s( 12, 12 ).
+ Robot 7 leaves store s( 12, 12 ) on the 1 Floor at Time 336.
+ Robot 6 went DOWN on the elevator at Time 339
+ Robot 6 got off the elevator at Time 342
+ Robot 7 went UP on the elevator at Time 360
+ Robot 7 got off the elevator at Time 363
+ Robot 6 arrives at s( 4, 10 ) on Floor 1 at time 364 
+ Robot 6 delivered 5 items to store s( 4, 10 ).
+ Robot 6 leaves store s( 4, 10 ) on the 1 Floor at Time 368.
+ Robot 7 arrives at s( 4, 6 ) on Floor 2 at time 367 
+ Robot 7 delivered 5 items to store s( 4, 6 ).
+ Robot 7 leaves store s( 4, 6 ) on the 2 Floor at Time 371.
+ Robot 6 went UP on the elevator at Time 374
+ Robot 6 got off the elevator at Time 377
+ Robot 7 went DOWN on the elevator at Time 395
+ Robot 7 got off the elevator at Time 398
+
+System: Robot 7 has left the simulation at Time 403. 
+
+ Robot 6 arrives at s( 12, 4 ) on Floor 2 at time 409 
+ Robot 6 delivered 3 items to store s( 12, 4 ).
+ Robot 6 leaves store s( 12, 4 ) on the 2 Floor at Time 411.
+ Robot 6 went DOWN on the elevator at Time 445
+ Robot 6 got off the elevator at Time 448
+ Robot 6 arrives at s( 12, 6 ) on Floor 1 at time 452 
+ Robot 6 delivered 1 items to store s( 12, 6 ).
+ Robot 6 leaves store s( 12, 6 ) on the 1 Floor at Time 452.
+ Robot 6 went UP on the elevator at Time 486
+ Robot 6 got off the elevator at Time 489
+ Robot 6 arrives at s( 12, 10 ) on Floor 2 at time 521 
+ Robot 6 delivered 2 items to store s( 12, 10 ).
+ Robot 6 leaves store s( 12, 10 ) on the 2 Floor at Time 522.
+ Robot 6 went DOWN on the elevator at Time 528
+ Robot 6 got off the elevator at Time 531
+
+System: Robot 6 has left the simulation at Time 536. 
+
+
+
+	 *********** STAGE 1 - SUMMARY ***********
+	 Robot     Start Time Finish Time
+	---------------------------------
+	  1             0             147
+	  4            75             158
+	  2            25             202
+	  8           175             248
+	  5           100             267
+	  3            50             315
+	  7           150             403
+	  6           125             536
+ Got to Print Tree 
+
+ *********** PRINTING TREE ***************** 
+
+ ITEM A0:
+      1000 -- (10, 4, 1)
+      201 -- (12, 4, 0)
+      88 -- (4, 4, 0)
+      21 -- (12, 4, 1)
+      5 -- (12, 12, 0)
+      4 -- (10, 12, 0)
+
+
+ ITEM A2:
+      6 -- (12, 12, 1)
+
+
+ ITEM A4:
+      2 -- (10, 4, 1)
+
+
+ ITEM A5:
+      180 -- (10, 4, 1)
+
+
+ ITEM A6:
+      144 -- (4, 10, 0)
+
+
+ ITEM B3:
+      200 -- (10, 4, 1)
+      101 -- (4, 4, 0)
+      50 -- (12, 12, 1)
+      24 -- (12, 12, 0)
+      13 -- (4, 6, 1)
+      12 -- (4, 10, 0)
+
+
+ ITEM B8:
+      12 -- (12, 6, 1)
+
+
+ ITEM C0:
+      30 -- (10, 4, 1)
+      24 -- (12, 4, 0)
+
+
+ ITEM C3:
+      20 -- (4, 6, 1)
+      10 -- (10, 4, 0)
+
+
+ ITEM D2:
+      200 -- (6, 4, 1)
+
+
+ ITEM D3:
+      30 -- (4, 10, 0)
+      30 -- (4, 6, 1)
+
+
+ ITEM E3:
+      400 -- (6, 4, 1)
+
+
+ ITEM E4:
+      50 -- (4, 10, 0)
+      40 -- (4, 6, 1)
+
+
+ ITEM F4:
+      40 -- (10, 4, 0)
+
+
+ ITEM F5:
+      52 -- (4, 12, 0)
+      51 -- (4, 10, 0)
+      50 -- (4, 6, 1)
+
+
+ ITEM G3:
+      30 -- (10, 4, 0)
+
+
+ ITEM G6:
+      88 -- (4, 6, 1)
+
+
+ ITEM H0:
+      14 -- (4, 6, 1)
+
+
+ ITEM H2:
+      14 -- (4, 12, 0)
+      12 -- (12, 12, 1)
+
+
+ ITEM H4:
+      42 -- (12, 4, 1)
+
+
+ ITEM H5:
+      50 -- (10, 4, 0)
+
+
+ ITEM J1:
+      632 -- (10, 12, 0)
+
+
+ ITEM J7:
+      27 -- (4, 12, 1)
+      6 -- (12, 10, 1)
+
+
+ ITEM J8:
+      400 -- (12, 10, 0)
+      82 -- (10, 12, 0)
+      18 -- (4, 12, 1)
+      8 -- (12, 6, 0)
+
+
+ ITEM J9:
+      19 -- (4, 12, 1)
+
+
+ ITEM K8:
+      26 -- (4, 6, 1)
+      8 -- (12, 10, 1)
+      2 -- (10, 12, 0)
+
+
+ ITEM K9:
+      345 -- (4, 6, 1)
+      354 -- (12, 10, 0)
+      115 -- (4, 10, 0)
+      99 -- (4, 4, 0)
+      14 -- (12, 4, 0)
+      27 -- (10, 4, 1)
+      9 -- (6, 12, 0)
+
+
+ ITEM L6:
+      288 -- (10, 4, 0)
+      6 -- (10, 4, 1)
+
+
+ ITEM L7:
+      200 -- (12, 6, 1)
+      6 -- (10, 4, 1)
+      4 -- (12, 10, 0)
+
+
+ ITEM L8:
+      282 -- (4, 6, 1)
+
+
+ ITEM M0:
+      101 -- (10, 4, 1)
+
+
+ ITEM M1:
+      11 -- (12, 12, 0)
+
+
+ ITEM M6:
+      52 -- (12, 10, 0)
+
+
+ ITEM M7:
+      112 -- (12, 6, 1)
+
+
+ ITEM M9:
+      55 -- (12, 6, 1)
+
+
+ ITEM N0:
+      4 -- (6, 4, 0)
+
+
+ ITEM N1:
+      6 -- (6, 4, 0)
+
+
+ ITEM N2:
+      654 -- (12, 12, 0)
+      8 -- (6, 4, 0)
+
+
+ ITEM N7:
+      84 -- (4, 4, 0)
+
+
+ ITEM N8:
+      46 -- (4, 4, 0)
+
+
+ ITEM N9:
+      38 -- (4, 4, 0)
+
+
+ ITEM P3:
+      36 -- (12, 12, 0)
+      33 -- (6, 4, 1)
+      33 -- (12, 12, 1)
+      13 -- (12, 4, 1)
+
+
+ ITEM P9:
+      99 -- (6, 4, 1)
+
+
+ ITEM Q8:
+      4 -- (10, 12, 1)
+
+
+ ITEM R2:
+      100 -- (6, 4, 1)
+
+
+ ITEM R9:
+      75 -- (12, 12, 0)
+
+
+ ITEM S2:
+      10 -- (12, 12, 0)
+
+
+ ITEM S3:
+      300 -- (6, 4, 1)
+
+
+ ITEM T2:
+      23 -- (12, 10, 0)
+
+
+ ITEM T5:
+      500 -- (6, 4, 1)
+
+
+ ITEM U1:
+      1 -- (10, 4, 1)
+
+
+ ITEM U2:
+      999 -- (10, 4, 1)
+
+
+ ITEM W0:
+      100 -- (10, 4, 1)
+      16 -- (12, 4, 0)
+
+
+ ITEM W1:
+      86 -- (12, 4, 0)
+      65 -- (10, 4, 1)
+
+
+ ITEM W2:
+      22 -- (12, 4, 0)
+
+
+ ITEM W3:
+      33 -- (12, 4, 0)
+      30 -- (6, 12, 1)
+
+
+ ITEM W4:
+      44 -- (12, 4, 0)
+
+
+ ITEM W6:
+      66 -- (12, 4, 0)
+
+
+ ITEM W7:
+      78 -- (12, 12, 0)
+      77 -- (12, 4, 0)
+
+
+ ITEM W8:
+      92 -- (4, 10, 1)
+      88 -- (12, 4, 0)
+
+
+ ITEM W9:
+      18 -- (10, 4, 1)
+      9 -- (12, 4, 0)
+
+
+ ITEM X1:
+      14 -- (10, 4, 1)
+      11 -- (4, 6, 1)
+
+
+ ITEM X2:
+      355 -- (12, 4, 0)
+      200 -- (10, 4, 1)
+      78 -- (12, 6, 1)
+      9 -- (4, 6, 1)
+
+
+ ITEM X3:
+      3 -- (4, 6, 1)
+
+
+ ITEM X4:
+      400 -- (4, 6, 1)
+
+
+ ITEM X5:
+      5 -- (4, 6, 1)
+
+
+ ITEM X6:
+      6 -- (4, 6, 1)
+      2 -- (12, 6, 1)
+      2 -- (10, 4, 1)
+
+
+ ITEM X7:
+      82 -- (10, 4, 1)
+      7 -- (4, 6, 0)
+      7 -- (4, 6, 1)
+
+
+ ITEM Y2:
+      222 -- (10, 4, 1)
+      34 -- (12, 6, 1)
+
+
+ ITEM Z0:
+      200 -- (12, 6, 1)
+
+
+ ITEM Z3:
+      20 -- (4, 10, 0)
+
+
+ ITEM Z6:
+      6 -- (12, 10, 0)
+
+
+ ITEM Z8:
+      300 -- (4, 4, 0)
+      47 -- (12, 10, 0)
+      30 -- (12, 4, 0)
+      18 -- (6, 12, 0)
+      18 -- (4, 6, 1)
+      8 -- (12, 12, 0)
+      118 -- (10, 4, 1)
+      2 -- (10, 12, 0)
+      8 -- (12, 6, 1)
+
+
+ ITEM Z9:
+      432 -- (4, 6, 1)
+      120 -- (4, 4, 1)
+
+
+*********** STAGE 2 - Shoppers *************
+
+Enter number of shoppers:
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+i == 0
+i == 1
+i == 2
+i == 3
+i == 4
+i == 5
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      X2 (120) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (50) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+i == 0
+i == 1
+i == 2
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      J8 (180) -- (8, 16, 0)
+      A0 (180) -- (8, 16, 0)
+      X2 (120) -- (8, 16, 0)
+      B3 (100) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (50) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+ Item Count: 50
+ Item Count: 90
+i == 0
+ Item Count: 180
+ Item Count: 430
+i == 1
+ Item Count: 180
+ Item Count: 213
+i == 2
+i == 3
+i == 4
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (213) -- (8, 16, 0)
+      A0 (430) -- (8, 16, 0)
+      X2 (120) -- (8, 16, 0)
+      B3 (100) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (90) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+ Item Count: 100
+ Item Count: 155
+i == 0
+ Item Count: 213
+ Item Count: 341
+i == 1
+i == 2
+ Item Count: 341
+ Item Count: 350
+i == 3
+i == 4
+i == 5
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (350) -- (8, 16, 0)
+      A0 (430) -- (8, 16, 0)
+      T5 (189) -- (8, 16, 0)
+      X2 (120) -- (8, 16, 0)
+      B3 (155) -- (8, 16, 0)
+      M0 (100) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (90) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+      E4 (17) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+i == 0
+ Item Count: 120
+ Item Count: 276
+i == 1
+i == 2
+i == 3
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (350) -- (8, 16, 0)
+      A0 (430) -- (8, 16, 0)
+      T5 (189) -- (8, 16, 0)
+      X2 (276) -- (8, 16, 0)
+      B3 (155) -- (8, 16, 0)
+      S3 (111) -- (8, 16, 0)
+      M0 (100) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      Y2 (66) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (90) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+      E4 (17) -- (8, 16, 0)
+      K9 (5) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+ Item Count: 5
+ Item Count: 35
+i == 0
+ Item Count: 350
+ Item Count: 365
+i == 1
+ Item Count: 430
+ Item Count: 442
+i == 2
+ Item Count: 189
+ Item Count: 323
+i == 3
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (365) -- (8, 16, 0)
+      A0 (442) -- (8, 16, 0)
+      T5 (323) -- (8, 16, 0)
+      X2 (276) -- (8, 16, 0)
+      B3 (155) -- (8, 16, 0)
+      S3 (111) -- (8, 16, 0)
+      M0 (100) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      Y2 (66) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (90) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+      E4 (17) -- (8, 16, 0)
+      K9 (35) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+i == 0
+i == 1
+i == 2
+i == 3
+i == 4
+ Item Count: 100
+ Item Count: 101
+i == 5
+i == 6
+******** Shopping List *********
+      D2 (250) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (365) -- (8, 16, 0)
+      A0 (442) -- (8, 16, 0)
+      T5 (323) -- (8, 16, 0)
+      X2 (276) -- (8, 16, 0)
+      B3 (155) -- (8, 16, 0)
+      S3 (111) -- (8, 16, 0)
+      M0 (101) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      Z0 (83) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      Y2 (66) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (90) -- (8, 16, 0)
+      U2 (56) -- (8, 16, 0)
+      W8 (41) -- (8, 16, 0)
+      G3 (35) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+      L7 (20) -- (8, 16, 0)
+      E4 (17) -- (8, 16, 0)
+      K9 (35) -- (8, 16, 0)
+      P9 (9) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+ Item Count: 20
+ Item Count: 119
+i == 0
+ Item Count: 83
+ Item Count: 97
+i == 1
+ Item Count: 250
+ Item Count: 396
+i == 2
+ Item Count: 41
+ Item Count: 73
+i == 3
+ Item Count: 155
+ Item Count: 178
+i == 4
+******** Shopping List *********
+      D2 (396) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (365) -- (8, 16, 0)
+      A0 (442) -- (8, 16, 0)
+      T5 (323) -- (8, 16, 0)
+      X2 (276) -- (8, 16, 0)
+      B3 (178) -- (8, 16, 0)
+      S3 (111) -- (8, 16, 0)
+      M0 (101) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      Z0 (97) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      Y2 (66) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (90) -- (8, 16, 0)
+      U2 (56) -- (8, 16, 0)
+      W8 (73) -- (8, 16, 0)
+      G3 (35) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+      L7 (119) -- (8, 16, 0)
+      E4 (17) -- (8, 16, 0)
+      K9 (35) -- (8, 16, 0)
+      P9 (9) -- (8, 16, 0)
+Enter:  arrival_time j_itmes  Item-1 count-1 ... Item-n count-n
+ Item Count: 178
+ Item Count: 186
+i == 0
+ Item Count: 90
+ Item Count: 335
+i == 1
+ Item Count: 35
+ Item Count: 152
+i == 2
+******** Shopping List *********
+      D2 (396) -- (8, 16, 0)
+      X4 (235) -- (8, 16, 0)
+      J8 (365) -- (8, 16, 0)
+      A0 (442) -- (8, 16, 0)
+      T5 (323) -- (8, 16, 0)
+      X2 (276) -- (8, 16, 0)
+      B3 (186) -- (8, 16, 0)
+      S3 (111) -- (8, 16, 0)
+      M0 (101) -- (8, 16, 0)
+      Z9 (87) -- (8, 16, 0)
+      Z0 (97) -- (8, 16, 0)
+      W7 (70) -- (8, 16, 0)
+      Y2 (66) -- (8, 16, 0)
+      H3 (66) -- (8, 16, 0)
+      Z8 (335) -- (8, 16, 0)
+      U2 (56) -- (8, 16, 0)
+      W8 (73) -- (8, 16, 0)
+      G3 (35) -- (8, 16, 0)
+      P3 (30) -- (8, 16, 0)
+      L7 (119) -- (8, 16, 0)
+      E4 (17) -- (8, 16, 0)
+      K9 (152) -- (8, 16, 0)
+      P9 (9) -- (8, 16, 0)
+End of STAGE 2 Input
+
+***** Shoppers *****
+
+   Shopper Id: 0
+   sort: 0
+   Start Time: 0
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 1
+   sort: 10
+   Start Time: 10
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 2
+   sort: 1
+   Start Time: 1
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 3
+   sort: 5
+   Start Time: 5
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 4
+   sort: 15
+   Start Time: 15
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 5
+   sort: 6
+   Start Time: 6
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 6
+   sort: 12
+   Start Time: 12
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 7
+   sort: 11
+   Start Time: 11
+   Finish Time: 0
+   Location { 8, 16, 0
+
+   Shopper Id: 8
+   sort: 314
+   Start Time: 314
+   Finish Time: 0
+   Location { 8, 16, 0
+
+
+	 *********** STAGE 2 - SUMMARY ***********
+	 Shopper     Start Time Finish Time
+	---------------------------------
+	  1             0               0
+	  2            10               0
+	  3             1               0
+	  4             5               0
+	  5            15               0
+	  6             6               0
+	  7            12               0
+	  8            11               0
+	  9           314               0
+
+

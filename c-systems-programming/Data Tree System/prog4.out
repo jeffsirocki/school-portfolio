@@ -1,0 +1,315 @@
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+Enter store( x, y, z ) k-itmes Item-1 count-1 ... Item-n count-n 
+161616
+ Got to Print Tree 
+
+ *********** PRINTING TREE ***************** 
+
+ ITEM A1:
+      234 -- (10, 4, 0)
+      87 -- (4, 12, 1)
+      21 -- (6, 12, 0)
+      18 -- (6, 12, 1)
+      14 -- (4, 6, 0)
+      9 -- (10, 12, 1)
+      3 -- (4, 6, 1)
+
+
+ ITEM A2:
+      222 -- (10, 12, 1)
+
+
+ ITEM A3:
+      43 -- (6, 4, 0)
+
+
+ ITEM B4:
+      45 -- (4, 6, 0)
+      42 -- (10, 4, 1)
+
+
+ ITEM B8:
+      2 -- (12, 10, 1)
+
+
+ ITEM B9:
+      182 -- (4, 6, 0)
+      91 -- (4, 6, 0)
+
+
+ ITEM C2:
+      3 -- (10, 4, 0)
+
+
+ ITEM C4:
+      65 -- (4, 6, 0)
+
+
+ ITEM C5:
+      55 -- (10, 4, 1)
+      4 -- (12, 12, 1)
+
+
+ ITEM C8:
+      100 -- (4, 4, 0)
+      11 -- (12, 4, 0)
+
+
+ ITEM C9:
+      9 -- (12, 12, 1)
+      7 -- (12, 10, 0)
+
+
+ ITEM D0:
+      145 -- (12, 12, 1)
+      9 -- (12, 12, 1)
+
+
+ ITEM D1:
+      245 -- (12, 12, 1)
+      56 -- (10, 4, 1)
+
+
+ ITEM D2:
+      345 -- (12, 12, 1)
+      3 -- (12, 12, 0)
+
+
+ ITEM D8:
+      4 -- (12, 10, 1)
+
+
+ ITEM E4:
+      48 -- (10, 4, 1)
+
+
+ ITEM E8:
+      8 -- (12, 12, 0)
+
+
+ ITEM F1:
+      123 -- (4, 6, 0)
+
+
+ ITEM F6:
+      80 -- (10, 4, 0)
+      21 -- (4, 12, 1)
+      20 -- (10, 4, 1)
+      17 -- (10, 4, 1)
+      12 -- (4, 6, 0)
+      12 -- (4, 6, 0)
+      5 -- (12, 10, 1)
+      4 -- (10, 4, 0)
+      2 -- (12, 6, 1)
+      1 -- (10, 4, 0)
+
+
+ ITEM G4:
+      34 -- (10, 4, 0)
+      24 -- (12, 10, 1)
+      11 -- (10, 4, 0)
+      3 -- (4, 6, 1)
+      2 -- (4, 6, 1)
+
+
+ ITEM K6:
+      16 -- (12, 10, 1)
+
+
+ ITEM K9:
+      59 -- (10, 4, 1)
+
+
+ ITEM L5:
+      10 -- (12, 12, 1)
+      5 -- (4, 4, 0)
+      5 -- (12, 12, 1)
+
+
+ ITEM L6:
+      6 -- (12, 4, 0)
+      6 -- (4, 4, 0)
+
+
+ ITEM L7:
+      900 -- (12, 10, 1)
+      432 -- (10, 4, 0)
+      26 -- (10, 4, 1)
+      12 -- (10, 4, 0)
+      8 -- (10, 4, 0)
+      7 -- (12, 6, 1)
+      7 -- (4, 4, 0)
+      6 -- (12, 4, 0)
+      6 -- (4, 4, 0)
+      5 -- (6, 12, 1)
+      3 -- (10, 4, 1)
+      2 -- (10, 4, 1)
+      1 -- (4, 12, 1)
+
+
+ ITEM M6:
+      71 -- (10, 4, 1)
+      27 -- (10, 4, 1)
+      17 -- (10, 4, 1)
+
+
+ ITEM M7:
+      7 -- (10, 4, 1)
+
+
+ ITEM N1:
+      15 -- (4, 12, 1)
+
+
+ ITEM N2:
+      16 -- (4, 12, 1)
+
+
+ ITEM N5:
+      456 -- (4, 4, 0)
+      72 -- (10, 12, 1)
+
+
+ ITEM N6:
+      389 -- (10, 4, 1)
+
+
+ ITEM O4:
+      741 -- (4, 4, 0)
+
+
+ ITEM P3:
+      34 -- (12, 12, 1)
+      13 -- (4, 4, 0)
+
+
+ ITEM Q2:
+      871 -- (4, 4, 0)
+
+
+ ITEM R2:
+      152 -- (4, 4, 0)
+
+
+ ITEM R7:
+      73 -- (12, 12, 1)
+
+
+ ITEM S1:
+      111 -- (4, 4, 0)
+      2 -- (12, 10, 1)
+
+
+ ITEM S5:
+      41 -- (10, 4, 1)
+
+
+ ITEM S6:
+      66 -- (10, 4, 1)
+
+
+ ITEM S8:
+      77 -- (10, 4, 1)
+
+
+ ITEM T0:
+      101 -- (4, 4, 0)
+      99 -- (10, 4, 1)
+      4 -- (10, 4, 0)
+      1 -- (10, 4, 1)
+
+
+ ITEM T4:
+      39 -- (12, 4, 0)
+      19 -- (4, 4, 0)
+
+
+ ITEM U2:
+      2 -- (10, 12, 1)
+      1 -- (4, 4, 0)
+
+
+ ITEM V2:
+      28 -- (4, 4, 0)
+
+
+ ITEM V8:
+      87 -- (10, 12, 1)
+
+
+ ITEM W8:
+      4 -- (4, 6, 0)
+      1 -- (4, 6, 0)
+
+
+ ITEM X1:
+      75 -- (12, 4, 0)
+
+
+ ITEM X2:
+      65 -- (12, 4, 0)
+
+
+ ITEM X4:
+      33 -- (10, 12, 1)
+      3 -- (10, 12, 1)
+
+
+ ITEM X8:
+      910 -- (12, 6, 1)
+      55 -- (12, 12, 0)
+      44 -- (4, 6, 0)
+      34 -- (10, 4, 1)
+      23 -- (10, 4, 1)
+      22 -- (6, 12, 1)
+      22 -- (4, 12, 1)
+      18 -- (4, 6, 0)
+      8 -- (12, 4, 0)
+      6 -- (12, 10, 1)
+
+
+ ITEM Y2:
+      102 -- (6, 12, 0)
+
+
+ ITEM Y7:
+      44 -- (12, 10, 0)
+      7 -- (4, 12, 1)
+
+
+ ITEM Z0:
+      123 -- (10, 4, 1)
+      53 -- (4, 6, 1)
+      42 -- (4, 6, 0)
+      41 -- (4, 12, 1)
+      9 -- (12, 10, 0)
+
+
+ ITEM Z9:
+      3 -- (12, 10, 0)
+
+

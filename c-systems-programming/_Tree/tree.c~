@@ -1,0 +1,50 @@
+// Jeff Sirocki
+// Lab4
+
+#include <stdio.h>
+#include <stdlib.h>
+#include "lab4.h"
+
+void insert( NodePtr *node, Student s ) {
+  int value = s.id;
+
+  // If empty tree
+  if ( *node == NULL ) {
+    *node = malloc( sizeof( Node ) );
+
+    // If memory allocated, set new node
+    if ( *node != NULL ) {
+      ( *node )->student = s;
+      ( *node )->leftPtr = NULL;
+      ( *node )->rightPtr = NULL;
+    } else {
+      printf( "Student not inserted. No memory available.\n" );
+    }
+  } else {
+    // id is less
+    if ( value < ( *node )->student.id ) {
+      insert( &( ( *node )->leftPtr ), s );
+    } else if ( value > ( *node )->student.id ) {
+      insert( &( ( *node )->rightPtr ), s );
+    } else {
+      printf( "WARNING: Duplicate value" );
+    }
+  }
+}
+
+
+// Prints tree in order
+void print_tree( NodePtr node ) {
+
+  // If tree not empty
+  if( node != NULL ) {
+    print_tree( node->leftPtr );
+    printf( "   Student { %5d  %3.2f  %3.2f  %3.2f  %3.2f }\n", 
+	    node->student.id,
+	    node->student.g1,
+	    node->student.g2,
+	    node->student.g3,
+	    node->student.average );
+    print_tree( node->rightPtr );
+  }
+}

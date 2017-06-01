@@ -1,0 +1,52 @@
+// Created by Joseph Kaiser
+
+#include <iostream>
+#include "lab5.h"
+
+using namespace std;
+
+queueNode::queueNode( void ) {
+  shop = Shop();
+  nextPtr = NULL;
+}
+
+//ENQUEUE
+void queueNode::enqueue( Shop S )
+{
+  queueNode* newPtr;
+  queueNode* currentPtr = this;
+
+  // allocate memory
+  newPtr = new queueNode();
+
+  if( newPtr != NULL )
+    {
+      
+      cout << "NEWPTR: " << newPtr->shop.xpos << " " << newPtr->shop.ypos << " " <<  newPtr->shop.service << endl;
+
+      // If empty insert at head
+      if( this->shop.service == -1 ) {
+	this->shop = S;
+      } else {
+	if ( this->nextPtr->shop.service == -1 ) {
+	this->nextPtr = new queueNode();
+	}
+	this->nextPtr->enqueue( S );
+      }
+    }
+  // else no memory available
+}
+
+// DEQUEUE
+queueNode* queueNode::dequeue() {
+  
+  queueNode* tmpPtr;
+  queueNode* nextPtr;
+
+  // Remove
+  tmpPtr = this;
+  nextPtr = this->nextPtr;
+  
+  return nextPtr;
+}
+ 

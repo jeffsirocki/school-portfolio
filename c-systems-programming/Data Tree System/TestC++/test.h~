@@ -1,0 +1,14 @@
+// Header file
+
+#include <iostream>
+using namespace std;
+
+int time; // globoal
+
+class Gradebook {
+ public:
+  void displayMessage()
+  {
+    cout << "Welcome to the Book!" << endl;
+  }
+};

@@ -1,0 +1,45 @@
+// Created by Jeff Sirocki and Joseph Kaiser
+// CS2303 - A02
+
+// Header File
+
+#include <iostream>
+using namespace std;
+
+// Prevent Errors
+#ifndef SHOP_H
+#define SHOP_H
+
+// Class for Shopper - put into store Queue
+class Shop {
+
+ public:
+  Shop( int, int, int ); 
+  Shop( void );
+
+  int xpos;
+  int ypos;
+  int service;
+}; // end of the Shopper Class
+
+#endif
+
+// Prevent Errors
+#ifndef QUEUENODE_H
+#define QUEUENODE_H
+
+// Class for QueueNode
+class queueNode {
+  
+ public:
+  queueNode( void ); // Constructor
+
+  // Functions
+  void enqueue( Shop s );
+  queueNode* dequeue();
+
+  Shop shop;
+  queueNode *nextPtr;
+}; // end of queueNode class
+
+#endif

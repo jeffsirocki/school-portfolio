@@ -1,0 +1,80 @@
+// Jeff Sirocki
+// Lab4
+
+#include <iostream>
+#include "lab4.h"
+
+void insert( Node *node, Student s ) {
+  
+  Node newNode;
+
+  // Node to insert
+  newNode.set_node ( s, NULL, NULL );
+
+  // Empty root
+  if ( (*node) == NULL ) {
+    
+    (*node) = newNode;
+    return;
+  }
+
+  // go Left. If null, insert new node else recurse
+  if ( s.id < (*node)->student.id ) {
+    if ( (*node)->left == NULL ) {
+      (*node)->left == newNode;
+      return;
+    } else {
+      insert( (*node)->left, s );
+    }
+  }
+
+  // go Right. If null, insert new node else recurse
+  if ( s.id < (*node)->student.id ) {
+    if ( (*node)->left == NULL ) {
+      (*node)->left == newNode;
+      return;
+    } else {
+      insert( (*node)->left, s );
+    }
+  }
+
+  // Duplicate Id, Print Error
+  if ( s.id == (*node)->student.id ) {
+    std::cout << "Error: Duplicate student id" << std::endl;
+  }
+}
+
+// Prints tree in order
+void print_tree( Node *node ) {
+  
+  // Empty root ( Base Case )
+  if ( (*node) == NULL ) {
+
+    // Print nothing
+    return;
+  }
+
+  // Both left and right. go left, print current, go right.
+  if ( (*node)->left != NULL && (*node)->right != NULL ) {
+    print_tree( (*node)->left );
+    std::cout << " Print Current " << std::endl;
+    print_tree( (*node)->right );
+  } else if ( (*node)->left != NULL ) {
+ 
+    // Only left, go left.
+    print_tree( (*node)->left );
+  } else if ( (*node)->right != NULL ) {
+
+    // Only right, go right.
+    print_tree( (*node)->right );
+  } else {
+   
+    // No children, print current
+    std::cout << " Print Current " << std::endl;
+    return;
+  }
+}
+
+  
+
+  

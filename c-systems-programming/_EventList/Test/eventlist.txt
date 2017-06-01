@@ -1,0 +1,66 @@
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20166 30 17 205 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20101 1 642 78 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 21034 71 6 4 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20006 0 55 50 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20167 31 48 8 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20102 2 971 11 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 21932 102 15 106 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 21845 101 101 101 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20719 66 6 30 } was INSERTED into the list. 
+
+Enter in a process id, arrival time, cpu time, and io time
+  Event { 20105 5 4 0 } was INSERTED into the list. 
+
+
+	*********Event List***********
+
+       Process Id   Arrival Time   CPU Time   IO Time
+-----------------------------------------------------
+Event:    20006          0            55        50
+Event:    20101          1           642        78
+Event:    20102          2           971        11
+Event:    20105          5             4         0
+Event:    20166         30            17       205
+Event:    20167         31            48         8
+Event:    20719         66             6        30
+Event:    21034         71             6         4
+Event:    21845        101           101       101
+Event:    21932        102            15       106
+
+  Event { 20006 0 55 50 } is being simulated and was REMOVED from the list. 
+
+  Event { 20101 1 642 78 } is being simulated and was REMOVED from the list. 
+
+  Event { 20102 2 971 11 } is being simulated and was REMOVED from the list. 
+
+  Event { 20105 5 4 0 } is being simulated and was REMOVED from the list. 
+
+  Event { 20166 30 17 205 } is being simulated and was REMOVED from the list. 
+
+  Event { 20167 31 48 8 } is being simulated and was REMOVED from the list. 
+
+  Event { 20719 66 6 30 } is being simulated and was REMOVED from the list. 
+
+  Event { 21034 71 6 4 } is being simulated and was REMOVED from the list. 
+
+  Event { 21845 101 101 101 } is being simulated and was REMOVED from the list. 
+
+  Event { 21932 102 15 106 } is being simulated and was REMOVED from the list. 
+

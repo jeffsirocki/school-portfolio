@@ -1,0 +1,21 @@
+// Header file
+
+class Student {
+ public:
+
+  Student ( string name ) {
+    setName( name );
+  }
+
+  void setName( string name ) {
+    Name = name;
+  }
+
+  string getName( ) {
+    return Name;
+  }
+
+ private: 
+  string Name;
+
+}; // End of class

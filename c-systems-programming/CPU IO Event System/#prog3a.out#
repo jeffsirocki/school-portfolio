@@ -1,0 +1,221 @@
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+Enter in a process id, arrival time, cpu time, and io time
+
+	*********Event List***********
+
+       Process Id   Arrival Time   CPU Time   IO Time
+-----------------------------------------------------
+Event:     2019          0            10        25
+Event:      100          2            49        10
+Event:     2018          4             2        15
+Event:     2017          5             4         1
+Event:     2015          6            99        54
+Event:     2016          6             5         6
+Event:        6          7             2         4
+Event:     2000         10            10        10
+Event:     1999         12             1         2
+Event:     2014         30            15        20
+Event:     2148         40             3        12
+Event:     2013         41            21         8
+Event:     7071         50             5         5
+Event:     2012         53            25        19
+Event:        7        100            17        43
+Event:     2116        888            66        77
+Event:     2117        889             2        41
+Event:     2118        890             4       333
+
+
+Go to Simulate 
+System: Event { 2019 0 10 25 } Arrived at Time 0 to the simulation. 
+
+ CPU: Event { 2019 0 10 25 } Arrived at Time 0 at the CPU scheduler. 
+
+System: Event { 100 2 49 10 } Arrived at Time 2 to the simulation. 
+
+ CPU: Event { 100 2 49 10 } Arrived at Time 2 at the CPU scheduler. 
+
+System: Event { 2018 4 2 15 } Arrived at Time 4 to the simulation. 
+
+ CPU: Event { 2018 4 2 15 } Arrived at Time 8 at the CPU scheduler. 
+
+System: Event { 2017 5 4 1 } Arrived at Time 5 to the simulation. 
+
+ CPU: Event { 2017 5 4 1 } Arrived at Time 10 at the CPU scheduler. 
+
+System: Event { 2015 6 99 54 } Arrived at Time 6 to the simulation. 
+
+ CPU: Event { 2015 6 99 54 } Arrived at Time 12 at the CPU scheduler. 
+
+System: Event { 2016 6 5 6 } Arrived at Time 6 to the simulation. 
+
+ CPU: Event { 2016 6 5 6 } Arrived at Time 14 at the CPU scheduler. 
+
+System: Event { 6 7 2 4 } Arrived at Time 7 to the simulation. 
+
+ CPU: Event { 6 7 2 4 } Arrived at Time 18 at the CPU scheduler. 
+
+System: Event { 2000 10 10 10 } Arrived at Time 10 to the simulation. 
+
+ CPU: Event { 2000 10 10 10 } Arrived at Time 22 at the CPU scheduler. 
+
+  I/O: Event { 2018 4 2 15 } Arrived at Time 10 at the IO scheduler. 
+
+System: Event { 1999 12 1 2 } Arrived at Time 12 to the simulation. 
+
+ CPU: Event { 1999 12 1 2 } Arrived at Time 24 at the CPU scheduler. 
+
+  I/O: Event { 6 7 2 4 } Arrived at Time 25 at the IO scheduler. 
+
+  I/O: Event { 1999 12 1 2 } Arrived at Time 29 at the IO scheduler. 
+
+System: Event { 2018 4 2 15 } has been COMPLETED at Time 38. 
+
+  I/O: Event { 2017 5 4 1 } Arrived at Time 31 at the IO scheduler. 
+
+System: Event { 6 7 2 4 } has been COMPLETED at Time 38. 
+
+System: Event { 2014 30 15 20 } Arrived at Time 30 to the simulation. 
+
+ CPU: Event { 2014 30 15 20 } Arrived at Time 38 at the CPU scheduler. 
+
+System: Event { 1999 12 1 2 } has been COMPLETED at Time 42. 
+
+System: Event { 2017 5 4 1 } has been COMPLETED at Time 44. 
+
+System: Event { 2148 40 3 12 } Arrived at Time 40 to the simulation. 
+
+ CPU: Event { 2148 40 3 12 } Arrived at Time 52 at the CPU scheduler. 
+
+System: Event { 2013 41 21 8 } Arrived at Time 41 to the simulation. 
+
+ CPU: Event { 2013 41 21 8 } Arrived at Time 54 at the CPU scheduler. 
+
+  I/O: Event { 2016 6 5 6 } Arrived at Time 43 at the IO scheduler. 
+
+  I/O: Event { 2019 0 10 25 } Arrived at Time 49 at the IO scheduler. 
+
+System: Event { 2016 6 5 6 } has been COMPLETED at Time 60. 
+
+System: Event { 7071 50 5 5 } Arrived at Time 50 to the simulation. 
+
+ CPU: Event { 7071 50 5 5 } Arrived at Time 62 at the CPU scheduler. 
+
+System: Event { 2012 53 25 19 } Arrived at Time 53 to the simulation. 
+
+ CPU: Event { 2012 53 25 19 } Arrived at Time 66 at the CPU scheduler. 
+
+  I/O: Event { 2148 40 3 12 } Arrived at Time 74 at the IO scheduler. 
+
+System: Event { 2019 0 10 25 } has been COMPLETED at Time 88. 
+
+  I/O: Event { 2000 10 10 10 } Arrived at Time 86 at the IO scheduler. 
+
+System: Event { 2148 40 3 12 } has been COMPLETED at Time 98. 
+
+  I/O: Event { 7071 50 5 5 } Arrived at Time 96 at the IO scheduler. 
+
+System: Event { 2000 10 10 10 } has been COMPLETED at Time 104. 
+
+System: Event { 7 100 17 43 } Arrived at Time 100 to the simulation. 
+
+ CPU: Event { 7 100 17 43 } Arrived at Time 108 at the CPU scheduler. 
+
+System: Event { 7071 50 5 5 } has been COMPLETED at Time 112. 
+
+  I/O: Event { 2014 30 15 20 } Arrived at Time 127 at the IO scheduler. 
+
+System: Event { 2014 30 15 20 } has been COMPLETED at Time 156. 
+
+  I/O: Event { 2013 41 21 8 } Arrived at Time 171 at the IO scheduler. 
+
+System: Event { 2013 41 21 8 } has been COMPLETED at Time 186. 
+
+  I/O: Event { 7 100 17 43 } Arrived at Time 189 at the IO scheduler. 
+
+  I/O: Event { 2012 53 25 19 } Arrived at Time 232 at the IO scheduler. 
+
+  I/O: Event { 100 2 49 10 } Arrived at Time 251 at the IO scheduler. 
+
+System: Event { 7 100 17 43 } has been COMPLETED at Time 232. 
+
+System: Event { 2012 53 25 19 } has been COMPLETED at Time 252. 
+
+System: Event { 100 2 49 10 } has been COMPLETED at Time 262. 
+
+  I/O: Event { 2015 6 99 54 } Arrived at Time 277 at the IO scheduler. 
+
+System: Event { 2015 6 99 54 } has been COMPLETED at Time 331. 
+
+System: Event { 2116 888 66 77 } Arrived at Time 888 to the simulation. 
+
+ CPU: Event { 2116 888 66 77 } Arrived at Time 888 at the CPU scheduler. 
+
+System: Event { 2117 889 2 41 } Arrived at Time 889 to the simulation. 
+
+ CPU: Event { 2117 889 2 41 } Arrived at Time 890 at the CPU scheduler. 
+
+System: Event { 2118 890 4 333 } Arrived at Time 890 to the simulation. 
+
+ CPU: Event { 2118 890 4 333 } Arrived at Time 894 at the CPU scheduler. 
+
+  I/O: Event { 2117 889 2 41 } Arrived at Time 892 at the IO scheduler. 
+
+  I/O: Event { 2118 890 4 333 } Arrived at Time 933 at the IO scheduler. 
+
+System: Event { 2117 889 2 41 } has been COMPLETED at Time 934. 
+
+  I/O: Event { 2116 888 66 77 } Arrived at Time 1266 at the IO scheduler. 
+
+System: Event { 2118 890 4 333 } has been COMPLETED at Time 1266. 
+
+System: Event { 2116 888 66 77 } has been COMPLETED at Time 1343. 
+
+
+
+****** SUMMARY *******
+
+  id  |  idle | total 
+----------------------
+ 2018 |     4 |    21 
+    6 |    16 |    22 
+ 1999 |    16 |    19 
+ 2017 |    22 |    27 
+ 2016 |    32 |    43 
+ 2019 |    39 |    74 
+ 2148 |    31 |    46 
+ 2000 |    66 |    86 
+ 7071 |    41 |    51 
+ 2014 |    82 |   117 
+ 2013 |   109 |   138 
+    7 |    72 |   132 
+ 2012 |   154 |   198 
+  100 |   200 |   259 
+ 2015 |   172 |   325 
+ 2117 |     1 |    44 
+ 2118 |    39 |   376 
+ 2116 |   312 |   455 
+
+
+*** Performance Metrics ***
+-----------------------------
+   Total Time:    1343 seconds 
+ Average Time:  135.17 seconds 
+ Average Idle:   78.22 seconds 
+
+
