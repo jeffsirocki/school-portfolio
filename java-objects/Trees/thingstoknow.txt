@@ -1,0 +1,5 @@
+things to complete
+
+1) how to convert letters to numbers
+2)sort the attraction names by alpha
+3)
