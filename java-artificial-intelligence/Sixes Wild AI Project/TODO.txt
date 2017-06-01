@@ -1,0 +1,16 @@
+TODO:
+
+-Test Cases
+-Javadoc
+
+LevelBuilder:
+	-Undo/redo with size slider
+	-Re-organize buttons
+	
+		
+Player:
+	-Make start screen a little nicer?
+	-Help screen?
+	-Add option for clearing progress?
+	-Add option for unlocking all levels? (free play)
+	-Game over screen?
